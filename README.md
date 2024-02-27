@@ -35,8 +35,9 @@ V. QUICK INSIGHTS
 ![image](https://github.com/ABISHEK-KS/Indian-economy-upto-2020-/assets/97246536/d0c97b95-f29d-41cf-971c-7122ca73a6f8)
 ![image](https://github.com/ABISHEK-KS/Indian-economy-upto-2020-/assets/97246536/8f7be58a-5d44-4d44-a80b-981028082413)
 
-VI. UNDERSTANDING POPULATION DYNAMICS 
-![image](https://github.com/ABISHEK-KS/Indian-economy-upto-2020-/assets/97246536/7989d149-ba76-4802-bc23-ae1cb74b242f)  
+VI. UNDERSTANDING POPULATION DYNAMICS     
+
+![image](https://github.com/ABISHEK-KS/Indian-economy-upto-2020-/assets/97246536/7989d149-ba76-4802-bc23-ae1cb74b242f)   
 
 I.	The Population Growth rate is on a constant decline since the 1980s.  
 II.	There seems to be an unsual reduction in population growth rate from 1964 to 1967, which can be attributed to various factors like Post-sterlization effects, Natural Disasters [Bihar Famines], effect of Family Planning Programmes, etc.   
